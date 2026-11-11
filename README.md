@@ -1,16 +1,32 @@
-## Hi there 👋
+## 田中
 
-<!--
-**tanaka264839-cmyk/tanaka264839-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AIを活用した業務システムの開発と、プロジェクトの進行。  
+要件の聞き取りから設計・テスト・保守まで、決定の記録と自動テストを残して進めます。
 
-Here are some ideas to get you started:
+### 主な仕事
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**運送会社の業務システム**（受託・2026年10月から本番運用中）  
+Google スプレッドシートと Google Apps Script で、電話受付・依頼書・番号の自動振り分け・ドライバーの予定表・台帳・依頼メールの下書きを、一連の仕組みにしました。  
+工程：聞き取り・要件整理・設計・開発・確認・本番への切り替え・保守／自動テスト約400本  
+※お客様の名前・画面・コードは、守秘のため公開していません。
+
+**接骨院向けAIチャットボット**（お渡し済み）  
+LINE で、よくある質問への回答と予約の受付・確認を24時間行い、答えられない内容はスタッフへ知らせます。  
+[動画を見る](https://youtu.be/GTTvPerFMgY)
+
+**Androidアプリ「StepLock」**（Google Play で公開中）  
+歩いた分だけスマホが使える、スマホの使いすぎを防ぐアプリです。  
+[Google Play](https://play.google.com/store/apps/details?id=com.shosoku.steplock)・[コード](https://github.com/tanaka264839-cmyk/StepLock)
+
+### 進め方
+
+- 聞き取った要望と、決めた理由を記録に残す
+- 直すたびに自動テストを通してから、本番に入れる
+- 納品の後は、お客様だけで回せる形を目指す
+
+### 技術
+
+Google Apps Script・JavaScript・Python・Kotlin  
+開発には生成AI（Claude Code・Codex）を使い、何を作るか・設計・確認は人が判断します。
+
+[ポートフォリオ（作品ごとの担当範囲）](https://robust-brisket-b41.notion.site/5a96514f6ecd8273bd028122ad20f471)
