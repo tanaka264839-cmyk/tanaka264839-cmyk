@@ -16,6 +16,7 @@ LINE で、よくある質問への回答と予約の受付・確認を24時間�
 
 **Androidアプリ「StepLock」**（Google Play で公開中）  
 歩いた分だけスマホが使える、スマホの使いすぎを防ぐアプリです。  
+コードは、公開中の版をもとに役目ごとに作り直し、決まりを自動テスト182本で固めた物です。決めた理由と確かめた結果も、一緒に載せています。  
 [Google Play](https://play.google.com/store/apps/details?id=com.shosoku.steplock)・[コード](https://github.com/tanaka264839-cmyk/StepLock)
 
 ### 進め方
