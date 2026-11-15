@@ -46,5 +46,3 @@ PayPayアプリの取引履歴を Google ドライブに入れるだけで、Goo
 
 Google Apps Script・JavaScript・Python・Kotlin  
 開発には生成AI（Claude Code・Codex）を使い、何を作るか・設計・確認は人が判断します。
-
-[ポートフォリオ（作品ごとの担当範囲）](https://robust-brisket-b41.notion.site/5a96514f6ecd8273bd028122ad20f471)
