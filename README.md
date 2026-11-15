@@ -20,6 +20,22 @@ LINE で、よくある質問への回答と予約の受付・確認を24時間�
 コードは、公開中の版をもとに役目ごとに作り直し、決まりを自動テスト182本で固めた物です。決めた理由と確かめた結果も、一緒に載せています。  
 [Google Play](https://play.google.com/store/apps/details?id=com.shosoku.steplock)・[コード](https://github.com/tanaka264839-cmyk/StepLock)
 
+**Webサービス「負け犬の癒し」**（公開中）  
+名前を出さずに、うまくいかなかったことを書き込める掲示板です。いいねの数は出さず、人を傷つける言葉は送る前に止めます。Python と SQLite で作り、自動テスト161本で固めています。  
+[サイト](https://makeinu.net/)・[紹介記事](https://note.com/tanaka_hagatatsu/n/n38aff8cecfa2)・[コード](https://github.com/tanaka264839-cmyk/makeinu)
+
+**帳票OCRの業務ツール**（自主開発）  
+請求書・日報など紙の帳票の写真やPDFをAIで読み取り、人が原票と見比べて確認・承認した分だけExcelに出します。請求書10枚の転記が、25分から5分になりました。  
+[紹介記事](https://note.com/tanaka_hagatatsu/n/n310e3494219c)
+
+**AIの戸締まり表**（Windows のアプリ）  
+AIに任せていることを12項目に分け、どこが開いているかを1枚で見せます。閉める前に、止まる作業と、閉めても防げないことを見せます。  
+[紹介記事](https://note.com/tanaka_hagatatsu/n/n3b0299fa6462)
+
+**PayPayの履歴で作る家計簿**  
+PayPayアプリの取引履歴を Google ドライブに入れるだけで、Google スプレッドシートの家計簿に入り、費目に自動で分かれます。明細は、使う人のスプレッドシートの中だけで扱います。  
+[紹介記事](https://note.com/tanaka_hagatatsu/n/nad963332df20)
+
 ### 進め方
 
 - 聞き取った要望と、決めた理由を記録に残す
