@@ -14,6 +14,10 @@ Google スプレッドシートと Google Apps Script で、日々の業務を�
 LINE で、よくある質問への回答と予約の受付・確認を24時間行い、答えられない内容はスタッフへ知らせます。  
 [動画を見る](https://youtu.be/GTTvPerFMgY)
 
+**GASの見本「予定の盤」**（公開中）  
+Google スプレッドシートの予定を、将棋の駒のようにつかんで動かせる画面です。画面はすぐ動き、裏で Google Apps Script が表に書きます。重なり・ほかの日への移動・2人が同時に動かした時の食い違いも防ぎます。自動テスト121本と、わざと壊して確かめた54通りを一緒に載せています。  
+[触ってみる](https://script.google.com/macros/s/AKfycbzf4gh0BJ3rWZpaxErrB11fhszA4jX-DABXvpLBJQb9XNgtD9TyF0wUzrt3ig6dFUCPTA/exec)・[コード](https://github.com/tanaka264839-cmyk/koma-ban)
+
 **Androidアプリ「StepLock」**（Google Play で公開中）  
 歩いた分だけスマホが使える、スマホの使いすぎを防ぐアプリです。  
 こういうアプリは、今やAIでだれでも作れます。だけど、0時をまたいでも、電源を入れ直しても、許可を後から切っても崩れない作りと、それを確かめた証拠までそろえるのは、今も簡単ではありません。  
